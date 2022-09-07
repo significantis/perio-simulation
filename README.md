@@ -2,9 +2,9 @@
 
 These are the simulation scripts used in the research article "Cost savings in the Swiss healthcare system resulting from professional periodontal care" by Ramseier et al. 2022. A free print of the article is available here: https://www.swissdentaljournal.org/magazin/artikel/cost-savings-in-the-swiss-healthcare-system-resulting-from-professional-periodontal-care.html. 
 
-## Current Structure
-
 Other researchers are free to check and improve the results by adding their codes. Currently - as of 2022-09-07 - the simulation structure is as follows:
+
+## Current Structure
 
 ### Main Scripts
 
